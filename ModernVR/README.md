@@ -1,0 +1,1 @@
+This website works closely with flexboxes. It contains almost everything I have learned from HTML, CSS, and Flexbox
