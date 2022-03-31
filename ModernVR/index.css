@@ -42,7 +42,8 @@ body {
     font-weight: bold;
     min-width: 6px;
 }
-/* Affects the Join us button*/
+
+/* Affects the Join us button and related stuff*/
 #btnprimary {
     background-color:rgb(255, 117, 117);
     padding: 12px 24px 12px 24px;
