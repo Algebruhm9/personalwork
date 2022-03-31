@@ -1,0 +1,42 @@
+body {
+    box-sizing: border-box;
+    margin: 5px;
+    background-color: rgb(51, 51, 51);
+}
+h1 {
+    color: white;
+    width: 100%;
+    font-size: 42px;
+    font-family: "Maven pro", Verdana, sans-serif;
+    text-align: center;
+}
+
+hr {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+p {
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+#back {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 12px 18px;
+    border: none;
+    border-radius: 4px;
+    background-color: grey;
+}
+#back:hover {
+    background-color: rgb(189, 182, 182);
+}
+#back a {
+    text-decoration: none;
+    color: black;
+    font-size: 1rem;
+}
