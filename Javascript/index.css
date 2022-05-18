@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(108, 108, 108);
+}
+
+#header {
+    font-family: Verdana, "Times New Roman", sans-serif;
+    color: white;
+}
+
+#output {
+    font-family: "Times New Roman", Verdana, sans-serif;
+    color: white;
+}
